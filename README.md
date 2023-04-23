@@ -1,18 +1,3 @@
-```lean
-inductive Time : Type
-| Daytime
-| Nighttime
+I'm actively authoring [RowScript], it will be open sourced pretty soon, stay tuned.
 
-inductive Anqur (x : Time) : Type
-| CrudBoy : Anqur
-| PLEnthusiast : Anqur
-
-open Time
-open Anqur
-
-example (x : Time) : Anqur x :=
-match x with
-| Daytime := CrudBoy Daytime
-| Nighttime := PLEnthusiast Nighttime
-end
-```
+[RowScript]: https://github.com/rowscript/rowscript
