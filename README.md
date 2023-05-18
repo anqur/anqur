@@ -1,3 +1,3 @@
-I'm actively authoring [RowScript], it will be open sourced pretty soon, stay tuned.
+I'm actively authoring [RowScript], check it out, it's fun!
 
-[RowScript]: https://github.com/rowscript
+[RowScript]: https://github.com/rowscript/rowscript
