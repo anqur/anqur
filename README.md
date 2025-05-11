@@ -1,13 +1,17 @@
-* 👷 目前在活跃开发 [RowScript] 编程语言, 一款 Rust 编写的 JavaScript 方言
-* 🤩 同时参与帆帆的 [ReuseIR] 和 [Rura] 项目中, 他有超级多很棒的 ideas
-* 🧸 此外, 我还喜欢给好朋友写 *内容详尽的教程* (比如 [Lyzh]), 或 *好玩的整活* 项目 (还在制作中)
+💼 Compiler engineer in [Suzhou Tongyuan](https://github.com/Suzhou-Tongyuan).
 
-👀 快来一起玩儿!
+I work on language runtime ⚙️ and semantics engineering 💬 for [Julia programming language](https://julialang.org).
 
-[RowScript]: https://github.com/rowscript/rowscript
+---
 
-[ReuseIR]: https://github.com/SchrodingerZhu/ReuseIR
+There are programming languages I craft for faith:
 
-[Rura]: https://github.com/SchrodingerZhu/rura
+* 🚣 [RowScript](https://github.com/rowscript/rowscript): A JavaScript dialect that types and compiles.
+* 🟰 [TinyLean](https://github.com/anqur/TinyLean): Lean-like theorem prover in less than 1K lines of Python.
+* ♻️ [Reussir](https://github.com/SchrodingerZhu/reussir-lang): Functional programming meets performance.
 
-[Lyzh]: https://github.com/anqurvanillapy/lyzh
+---
+
+💡 I have a [blog](https://anqur.lu) for notes and novel ideas.
+
+👀 Feel free to ping me if anything here intrigues you.
